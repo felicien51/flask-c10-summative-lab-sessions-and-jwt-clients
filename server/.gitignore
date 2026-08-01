@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+instance/
+.pytest_cache/
+server*.log
+cookies*.txt
+c3.txt
+.env
